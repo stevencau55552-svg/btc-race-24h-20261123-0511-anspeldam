@@ -1,6 +1,10 @@
+[![make.fun](https://make.fun/badge/btc-race-24h-20261123-0511.svg)](https://make.fun/bounty/btc-race-24h-20261123-0511)
+[![rank](https://make.fun/badge/btc-race-24h-20261123-0511/stevencau55552-svg/btc-race-24h-20261123-0511-anspeldam/rank.svg)](https://make.fun/bounty/btc-race-24h-20261123-0511/leaderboard)
+[![reward](https://make.fun/badge/btc-race-24h-20261123-0511/stevencau55552-svg/btc-race-24h-20261123-0511-anspeldam/reward.svg)](https://make.fun/bounty/btc-race-24h-20261123-0511)
+
 # btc-race-24h-20261123-0511 — breakout trend-rider (anspeldam)
 
-Long-only cbBTC/USDC bot for the make.fun 24h BTC race, account @anspeldam.
+Long-only cbBTC/USDC bot for the [make.fun bounty](https://make.fun/bounty/btc-race-24h-20261123-0511).
 
 ## Strategy
 
